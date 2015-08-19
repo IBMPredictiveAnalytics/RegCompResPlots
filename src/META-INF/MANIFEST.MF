@@ -1,0 +1,12 @@
+Name: RegCompResPlots
+Dialog-Specs: RegCompResPlots.spd
+Summary: Component+Residual Plots (aka Partial Residual Plots)
+Description: Dialog to check for nonlinearity in the independents of a
+  regression analysis.
+Author: Dr. Hans Grüner, Freie Universität Berlin (http://gruener.user
+ page.fu-berlin.de)
+Version: 2.0.0
+Product-Version: 18
+Date: 13.03.2012
+Categories: component+resid​ual, dialog, graphics, linearity, nonlinea
+ rity, partial_residua​l, plots, regression, statistics
