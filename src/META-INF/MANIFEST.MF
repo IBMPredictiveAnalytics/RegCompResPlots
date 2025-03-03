@@ -1,4 +1,5 @@
 Name: RegCompResPlots
+Display-Name: Regression Component Residual Plots
 Dialog-Specs: RegCompResPlots.spd
 Summary: Component+Residual Plots (aka Partial Residual Plots)
 Description: Dialog to check for nonlinearity in the independents of a
